@@ -1,0 +1,7 @@
+{
+  "name": "onesignal-repro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
